@@ -2,13 +2,13 @@
 
 # Blind 75 LeetCode Master Checklist
 
-Progress: 2/75
+Progress: 4/75
 
 ## Array
 
 - [ ] Two Sum
 - [ ] Best Time to Buy and Sell Stock
-- [ ] Contains Duplicate
+- [x] Contains Duplicate
 - [ ] Product of Array Except Self
 - [ ] Maximum Subarray
 - [ ] Maximum Product Subarray
@@ -79,7 +79,7 @@ Progress: 2/75
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Minimum Window Substring
-- [ ] Valid Anagram
+- [x] Valid Anagram
 - [ ] Group Anagrams
 - [ ] Valid Parentheses
 - [ ] Valid Palindrome
