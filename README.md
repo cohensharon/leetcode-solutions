@@ -2,7 +2,7 @@
 
 # Blind 75 LeetCode Master Checklist
 
-Progress: 1/75
+Progress: 2/75
 
 ## Array
 
@@ -44,7 +44,7 @@ Progress: 1/75
 - [ ] Clone Graph
 - [ ] Course Schedule
 - [ ] Pacific Atlantic Water Flow
-- [ ] Number of Islands
+- [x] Number of Islands
 - [ ] Longest Consecutive Sequence
 - [ ] Alien Dictionary
 - [ ] Graph Valid Tree
