@@ -2,14 +2,14 @@
 
 # Blind 75 LeetCode Master Checklist
 
-Progress: 4/75
+Progress: 6/75
 
 ## Array
 
-- [ ] Two Sum
+- [x] Two Sum
 - [ ] Best Time to Buy and Sell Stock
 - [x] Contains Duplicate
-- [ ] Product of Array Except Self
+- [x] Product of Array Except Self
 - [ ] Maximum Subarray
 - [ ] Maximum Product Subarray
 - [ ] Find Minimum in Rotated Sorted Array
