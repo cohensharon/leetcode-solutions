@@ -16,7 +16,7 @@ class MinStack {
         if (this.minStack.length === 0) {
             this.minStack.push(val);
         } else { 
-            const currMin = Math.min(this.minStack.at(-1), val);
+            const currMin = Math.min(this.minStack.at(-1) || -Infinity, val);
             this.minStack.push(currMin);
         }
     }
@@ -27,11 +27,11 @@ class MinStack {
     }
 
     top(): number {
-        return this.stack.at(-1);
+        return this.stack.at(-1) || -Infinity;
     }
 
     getMin(): number {
-        return this.minStack.at(-1);
+        return this.minStack.at(-1) || -Infinity;
     }
 }
 

@@ -5,7 +5,7 @@
  */
 
 function productExceptSelf(nums: number[]): number[] {
-    const res = [];
+    const res: number[] = [];
     let product = 1;
     for (let i = 0; i < nums.length; i++) {
         res.push(product);

@@ -11,9 +11,12 @@ function twoSum(nums: number[], target: number): number[] {
     for(let i = 0; i < nums.length; i++) {
         const subtract = target - nums[i];
         if (m.has(subtract)) {
-            return [m.get(subtract), i];
+            return [m.get(subtract) ||
+                 -1, i];
         }
 
         m.set(nums[i], i);
     }
+
+    return [-1, -1];
 };
