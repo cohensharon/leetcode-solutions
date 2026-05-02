@@ -1,3 +1,9 @@
+/**
+ * Solution explanation: 
+ * Map of number to node, and linked list of nodes
+ * Linked list is in order of least recently used to most recently used
+ */
+
 class CacheNode {
     key: number;
     value: number;

@@ -116,7 +116,7 @@ Progress: 6/75
 - [x] **146. [LRU Cache](https://leetcode.com/problems/lru-cache/description/)** — must-know; hash map + linked list
 - [x] **155. [Min Stack](https://leetcode.com/problems/min-stack/description/)** — simple but teaches stateful API design
 - [ ] **380. [Insert Delete GetRandom O(1)**](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) — hash map + array modeling
-- [ ] **981. [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/)** — very backend-ish; versioned data
+- [x] **981. [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/)** — very backend-ish; versioned data
 - [ ] **622. [Design Circular Queue**](https://leetcode.com/problems/design-circular-queue/description/) — useful for queue/ring buffer basics
 - [ ] **641. [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/)** — similar but slightly more complex
 - [ ] **707. [Design Linked List](https://leetcode.com/problems/design-linked-list/description/)** — good pointer/state practice
