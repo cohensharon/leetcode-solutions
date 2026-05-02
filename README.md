@@ -2,7 +2,7 @@
 
 # Blind 75 LeetCode Master Checklist
 
-Progress: 6/75
+Progress: 7/75
 
 ## Array
 
@@ -64,7 +64,7 @@ Progress: 6/75
 - [ ] Detect Cycle in a Linked List
 - [ ] Merge Two Sorted Lists
 - [ ] Merge k Sorted Lists
-- [ ] Remove Nth Node From End of List
+- [x] Remove Nth Node From End of List
 - [ ] Reorder List
 
 ## Matrix
