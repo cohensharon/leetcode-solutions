@@ -2,7 +2,7 @@
 
 # Blind 75 LeetCode Master Checklist
 
-Progress: 8/75
+Progress: 9/75
 
 ## Array
 
@@ -28,7 +28,7 @@ Progress: 8/75
 ## Dynamic Programming
 
 - [ ] Climbing Stairs
-- [ ] Coin Change
+- [x] Coin Change
 - [ ] Longest Increasing Subsequence
 - [ ] Longest Common Subsequence
 - [ ] Word Break
