@@ -2,7 +2,7 @@
 
 # Blind 75 LeetCode Master Checklist
 
-Progress: 7/75
+Progress: 8/75
 
 ## Array
 
@@ -93,7 +93,7 @@ Progress: 7/75
 - [ ] Same Tree
 - [ ] Invert Binary Tree
 - [ ] Binary Tree Maximum Path Sum
-- [ ] Binary Tree Level Order Traversal
+- [x] Binary Tree Level Order Traversal
 - [ ] Serialize and Deserialize Binary Tree
 - [ ] Subtree of Another Tree
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
