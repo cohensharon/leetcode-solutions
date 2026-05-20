@@ -111,23 +111,23 @@ Progress: 9/75
 
 # Leetcode Design Problems
 
-- [x] **706. [Design HashMap](https://leetcode.com/problems/design-hashmap/description/)** — core data structure, very interview-relevant
-- [x] **705. [Design HashSet](https://leetcode.com/problems/design-hashset/description/)** — same, easier warmup
-- [x] **146. [LRU Cache](https://leetcode.com/problems/lru-cache/description/)** — must-know; hash map + linked list
-- [x] **155. [Min Stack](https://leetcode.com/problems/min-stack/description/)** — simple but teaches stateful API design
+- [x] **706. [Design HashMap](https://leetcode.com/problems/design-hashmap/description/)** — core data structure
+- [x] **705. [Design HashSet](https://leetcode.com/problems/design-hashset/description/)** — core data structure
+- [x] **146. [LRU Cache](https://leetcode.com/problems/lru-cache/description/)** — hash map + linked list
+- [x] **155. [Min Stack](https://leetcode.com/problems/min-stack/description/)** — API design
 - [x] **380. [Insert Delete GetRandom O(1)**](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) — hash map + array modeling
-- [x] **981. [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/)** — very backend-ish; versioned data
-- [x] **622. [Design Circular Queue**](https://leetcode.com/problems/design-circular-queue/description/) — useful for queue/ring buffer basics
-- [ ] **641. [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/)** — similar but slightly more complex
-- [x] **707. [Design Linked List](https://leetcode.com/problems/design-linked-list/description/)** — good pointer/state practice
+- [x] **981. [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/)** — versioned data
+- [x] **622. [Design Circular Queue**](https://leetcode.com/problems/design-circular-queue/description/) — queue/ring buffer
+- [ ] **641. [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/)** — queue/ring buffer
+- [x] **707. [Design Linked List](https://leetcode.com/problems/design-linked-list/description/)** — pointer/state
 - [ ] **211. [Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)** — trie + API design
-- [ ] **588. [Design In-Memory File System**](https://leetcode.com/problems/design-in-memory-file-system/description/) — very practical modeling problem
+- [ ] **588. [Design In-Memory File System**](https://leetcode.com/problems/design-in-memory-file-system/description/) — modeling
 - [ ] **348. [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/)** — clean state/modeling exercise
 - [ ] **355. [Design Twitter](https://leetcode.com/problems/design-twitter/description/)** — feeds, ranking, timestamps, data modeling
 - [ ] **1396. [Design Underground System**](https://leetcode.com/problems/design-underground-system/description/) — event tracking + aggregation
 - [ ] **1797. [Design Authentication Manager**](https://leetcode.com/problems/design-authentication-manager/description/) — TTL/session expiration logic
 - [ ] **1166. [Design File System](https://leetcode.com/problems/design-file-system/description/)** — path modeling
 - [ ] **1244. [Design A Leaderboard**](https://leetcode.com/problems/design-a-leaderboard/description/) — ranking / maps / sorting
-- [ ] **642. [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/description/)** — trie + ranking, more involved
-- [ ] **1603. [Design Parking System](https://leetcode.com/problems/design-parking-system/description/)** — easy but good OOP warmup
+- [ ] **642. [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/description/)** — trie + ranking
+- [ ] **1603. [Design Parking System](https://leetcode.com/problems/design-parking-system/description/)** — OOP
 - [ ] **362. [Design Hit Counter**](https://leetcode.com/problems/design-hit-counter/description/) — time-window aggregation
