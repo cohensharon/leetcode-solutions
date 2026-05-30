@@ -2,7 +2,7 @@
 
 # Blind 75 LeetCode Master Checklist
 
-Progress: 9/75
+Progress: 10/75
 
 ## Array
 
@@ -85,7 +85,7 @@ Progress: 9/75
 - [ ] Valid Palindrome
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substrings
-- [ ] Encode and Decode Strings
+- [x] Encode and Decode Strings
 
 ## Tree
 
