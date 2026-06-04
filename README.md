@@ -2,7 +2,7 @@
 
 # Blind 75 LeetCode Master Checklist
 
-Progress: 11/75
+Progress: 13/75
 
 ## Array
 
@@ -33,7 +33,7 @@ Progress: 11/75
 - [ ] Longest Common Subsequence
 - [ ] Word Break
 - [ ] Combination Sum IV
-- [ ] House Robber
+- [x] House Robber
 - [ ] House Robber II
 - [ ] Decode Ways
 - [ ] Unique Paths
@@ -53,7 +53,7 @@ Progress: 11/75
 ## Interval
 
 - [ ] Insert Interval
-- [ ] Merge Intervals
+- [x] Merge Intervals
 - [ ] Non-overlapping Intervals
 - [ ] Meeting Rooms
 - [ ] Meeting Rooms II
