@@ -2,12 +2,12 @@
 
 # Blind 75 LeetCode Master Checklist
 
-Progress: 13/75
+Progress: 15/75
 
 ## Array
 
 - [x] Two Sum
-- [ ] Best Time to Buy and Sell Stock
+- [x] Best Time to Buy and Sell Stock
 - [x] Contains Duplicate
 - [x] Product of Array Except Self
 - [ ] Maximum Subarray
@@ -27,7 +27,7 @@ Progress: 13/75
 
 ## Dynamic Programming
 
-- [ ] Climbing Stairs
+- [x] Climbing Stairs
 - [x] Coin Change
 - [ ] Longest Increasing Subsequence
 - [ ] Longest Common Subsequence
