@@ -2,7 +2,7 @@
 
 # Blind 75 LeetCode Master Checklist
 
-Progress: 15/75
+Progress: 16/75
 
 ## Array
 
@@ -47,7 +47,7 @@ Progress: 15/75
 - [x] Number of Islands
 - [ ] Longest Consecutive Sequence
 - [ ] Alien Dictionary
-- [ ] Graph Valid Tree
+- [x] Graph Valid Tree
 - [ ] Number of Connected Components in an Undirected Graph
 
 ## Interval
